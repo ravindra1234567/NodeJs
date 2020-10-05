@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ravindra1234567/nodejs#readme",
   "dependencies": {
+    "nodemailer": "^6.4.13",
     "upper-case": "^2.0.1"
   }
 }
